@@ -62,35 +62,28 @@ Hi 👋, I'm Khaled Haggag
 
 ---
 
+---
 # 📂 Featured Projects
 
-## 🚗 DVLD System
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/DVLD-System">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=DVLD-System&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/Tourism-Website">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Tourism-Website&theme=tokyonight" />
+  </a>
+</p>
 
-Desktop Application for Driving License Management System.
-
-### Features
-
-- Three-Tier Architecture
-- SQL Server Database
-- ADO.NET
-- Users & Permissions
-- Local Driving License
-- International License
-- Tests Management
-- Drivers Management
-
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/Algorithms">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Algorithms&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/DataStructures">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=DataStructures&theme=tokyonight" />
+  </a>
+</p>
 ---
 
-## 🌍 Tourism Website
-
-- ASP.NET Core
-- REST API
-- SQL Server
-- HTML
-- CSS
-- JavaScript
-
----
 
 # 📈 GitHub Stats
 
