@@ -25,44 +25,40 @@ Hi 👋, I'm Khaled Haggag
 
 # 🚀 Tech Stack
 
-### Languages
-
+### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>>
+
+### 🔧 Backend
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three--Tier%20Architecture-2E8B57?style=for-the-badge"/>
 </p>
 
-### Backend
-
+### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-- ASP.NET Core
-- ADO.NET
-- REST API
-- Three-Tier Architecture
-
-### Database
-
+### 🛠️ Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
-- SQL Server
-- SSMS
-- Stored Procedures
-- Triggers
-- Views
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode"/>
-</p>
-
 ---
 
----
+
 ## 📂 Featured Projects
 
 <div align="center">
