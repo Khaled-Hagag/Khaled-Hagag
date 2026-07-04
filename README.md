@@ -63,26 +63,29 @@ Hi 👋, I'm Khaled Haggag
 ---
 
 ---
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/DVLD-System">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=DVLD-System&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/Tourism-Website">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Tourism-Website&theme=tokyonight" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Algorithms">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Algorithms&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/DataStructures">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=DataStructures&theme=tokyonight" />
-  </a>
-</p>
----
+<a href="https://github.com/YOUR_USERNAME/Repo1">
+  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Repo1&theme=tokyonight&border_radius=10" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/Repo2">
+  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Repo2&theme=tokyonight&border_radius=10" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/YOUR_USERNAME/Repo3">
+  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Repo3&theme=tokyonight&border_radius=10" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/Repo4">
+  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Repo4&theme=tokyonight&border_radius=10" />
+</a>
+
+</div>
 
 
 # 📈 GitHub Stats
