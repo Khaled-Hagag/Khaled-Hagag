@@ -87,7 +87,8 @@ Hi 👋, I'm Khaled Haggag
 
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-hagag-02a009298/) [Khaled Hagag](https://www.linkedin.com/in/khaled-hagag-02a009298/)-
+[![LinkedIn]] [Khaled Hagag](https://www.linkedin.com/in/khaled-hagag-02a009298/)
+---
 Email: khaledhagag400@gmail.com
 
 ---
