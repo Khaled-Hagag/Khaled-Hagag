@@ -75,13 +75,13 @@ Hi 👋, I'm Khaled Haggag
 
 </div>
 
+
 ---
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Khaled-Hagag&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats-two-sand-12.vercel.app/api/top-langs/?username=Khaled-Hagag&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
