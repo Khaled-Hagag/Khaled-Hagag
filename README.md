@@ -59,20 +59,6 @@ Hi 👋, I'm Khaled Haggag
 ---
 
 
-## 📂 Featured Projects
-
-<div align="center">
-  
----
-# 📂 Featured Projects
-
-
-<a href="https://github.com/YOUR_USERNAME/Repo3">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Repo3&theme=tokyonight&border_radius=10" />
-</a>
-
-
-
 </div>
 
 
