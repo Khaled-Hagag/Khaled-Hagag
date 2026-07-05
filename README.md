@@ -56,13 +56,11 @@ Hi 👋, I'm Khaled Haggag
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
----
 
 
 </div>
 
 
----
 
 <p align="center">
   <img src="https://github-readme-stats-two-sand-12.vercel.app/api/top-langs/?username=Khaled-Hagag&layout=compact&theme=tokyonight" />
