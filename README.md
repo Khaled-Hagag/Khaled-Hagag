@@ -15,7 +15,6 @@ Hi 👋, I'm Khaled Haggag
 # 👨‍💻 About Me
 
 - 🎓 Computer Science Student (4th Year)
-- 📊 GPA: **3.0 / 4.0**
 - 💻 Passionate about Backend Development using **.NET**
 - 🌱 Currently learning **Advanced ASP.NET Core**
 - 🏗️ Building Real-World Projects
